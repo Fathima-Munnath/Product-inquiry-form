@@ -1,0 +1,99 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h5 {
+    text-align: center;
+    color: #555;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table td {
+    padding: 10px;
+    vertical-align: top;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  input[type="text/css"],
+  textarea {
+    width: 100%;
+    padding: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  
+
+  }
+
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .thank-you {
+    text-align: center;
+    padding: 20px;
+    background-color: #e7ffe7;
+    border: 1px solid #c3e6c3;
+    border-radius: 5px;
+  }
+  
+  .thank-you h2 {
+    color: #4caf50;
+  }
+  
+  .thank-you ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .thank-you ul li {
+    margin-bottom: 10px;
+  }
+  
